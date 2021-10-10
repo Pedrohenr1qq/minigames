@@ -1,0 +1,12 @@
+Esse jogo funciona da seguinte forma:
+
+1. O computador irá gerar um numero aleatório entre 1 a 1000.
+
+2. Ele lhe pedirá que digite um número.
+
+3. Case o numero que você digitou seja maior que o número gerado pelo 
+computador, ele escreverá na tela: "big". Caso o número seja menor, ele
+mostrará "small". E se o número digitado for igual ao sorteado, ele irá
+mostrar "you win".
+
+4. Você tem até 10 tentativas para acertar o número. Good luck.
