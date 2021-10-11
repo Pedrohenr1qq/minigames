@@ -13,7 +13,7 @@ while True:
     a+=1
 
     if a == t:
-        print("You lose")
+        print(f"You lose. The number was {bot}")
         break
     if y == bot:
         print("You win")
